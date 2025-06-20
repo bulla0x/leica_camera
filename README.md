@@ -3,7 +3,7 @@
 ### Cloning :
 - Clone this repo in vendor/xiaomi/miuicamera in your working directory by :
 ```
-git clone git@github.com:bulla0x/leica_camera_raphael.git -b android-15 vendor/xiaomi/miuicamera
+git clone https://github.com/bulla0x/leica_camera.git -b leica_a15 vendor/xiaomi/miuicamera
 ```
 
 Make these changes in **smXXXX-common**
